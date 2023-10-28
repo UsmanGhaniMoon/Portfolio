@@ -16,7 +16,7 @@ const Contact = () => {
         >
           <p className={styles.sectionSubText}>Get in touch</p>
           <h3 className={styles.sectionHeadText}>Contact.</h3>
-          <div className="flex-center-center gap-2 mt-8 flex-wrap">
+          <div className="flex-center-center mt-8 flex-wrap gap-2">
             <div>
               <a href="mailto:mern.dev.rajesh@gmail.com">
                 <Button variant="outlined" endIcon={<Email />}>
@@ -54,7 +54,7 @@ const Contact = () => {
           className="md:h-auto md:flex-1"
         >
           <img
-            src="./contact.jpeg"
+            src="https://rajesh-mern-stack-portfolio-images.s3.ap-south-1.amazonaws.com/assets/contact.jpeg"
             alt="contact-us"
             className="h-full w-full object-contain"
           />

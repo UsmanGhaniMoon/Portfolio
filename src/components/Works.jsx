@@ -1,7 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
 import { styles } from "../styles";
-import { github, webLink } from "../assets";
 import { SectionWrapper } from "../hoc";
 import { projects } from "../constants";
 import { fadeIn, textVariant } from "../utils/motion";
@@ -12,6 +11,7 @@ const ProjectCard = ({
   description,
   tags,
   image,
+  alt,
   source_code_link,
   live_link,
 }) => {
@@ -21,7 +21,7 @@ const ProjectCard = ({
         <div className="relative h-[230px] w-full">
           <img
             src={image}
-            alt="project_image"
+            alt={alt}
             className="h-full w-full rounded-2xl object-cover"
           />
 
@@ -31,8 +31,8 @@ const ProjectCard = ({
               className="black-gradient mr-1 flex h-10 w-10 cursor-pointer items-center justify-center rounded-full"
             >
               <img
-                src={webLink}
-                alt="source code"
+                src="https://rajesh-mern-stack-portfolio-images.s3.ap-south-1.amazonaws.com/assets/webLink.png"
+                alt="live link"
                 className="h-full w-full rounded-full  object-contain"
               />
             </div>
@@ -41,7 +41,7 @@ const ProjectCard = ({
               className="black-gradient flex h-10 w-10 cursor-pointer items-center justify-center rounded-full"
             >
               <img
-                src={github}
+                src="https://rajesh-mern-stack-portfolio-images.s3.ap-south-1.amazonaws.com/assets/github.png"
                 alt="source code"
                 className="h-3/4 w-3/4 object-contain"
               />

@@ -19,10 +19,10 @@ module.exports = {
         xs: "450px",
       },
       backgroundImage: {
-        "hero-pattern": "url('/src/assets/herobg.png')",
+        "hero-pattern":
+          "url('https://rajesh-mern-stack-portfolio-images.s3.ap-south-1.amazonaws.com/assets/herobg.png')",
       },
     },
   },
   plugins: [],
-}
-
+};

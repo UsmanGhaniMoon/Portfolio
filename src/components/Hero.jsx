@@ -50,7 +50,7 @@ const Hero = () => {
         </motion.div>
       </div>
 
-      <div className="flex-center-center mb-32 w-full ">
+      <div className="flex-center-center mb-40 w-full ">
         <a href="#about">
           <div className="flex h-[64px] w-[35px] items-start justify-center rounded-3xl border-4 border-secondary p-2">
             <motion.div

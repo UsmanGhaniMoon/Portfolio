@@ -37,9 +37,9 @@ import postman from "./tools/postman.png";
 import ubuntu from "./tools/ubuntu.png";
 import Impress from "./tools/Impress.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import e_commerce from "./e-commerce.png";
+import proConnectup from "./proConnectup.jpg";
+import portfolio from "./portfolio.png";
 
 export {
   logo,
@@ -76,7 +76,7 @@ export {
   postman,
   ubuntu,
   Impress,
-  carrent,
-  jobit,
-  tripguide,
+  e_commerce,
+  proConnectup,
+  portfolio,
 };
