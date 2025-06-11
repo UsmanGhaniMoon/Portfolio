@@ -52,122 +52,122 @@ const navLinks = [
 const services = [
   {
     title: "Web Developer",
-    icon: "https://rajesh-mern-stack-portfolio-images.s3.ap-south-1.amazonaws.com/assets/web.png",
+    icon: "http://localhost:3000/assets/web.png",
   },
   {
     title: "React Developer",
-    icon: "https://rajesh-mern-stack-portfolio-images.s3.ap-south-1.amazonaws.com/assets/frontend.png",
+    icon: "http://localhost:3000/assets/frontend.png",
   },
   {
     title: "Backend Developer",
-    icon: "https://rajesh-mern-stack-portfolio-images.s3.ap-south-1.amazonaws.com/assets/backend.png",
+    icon: "http://localhost:3000/assets/backend.png",
   },
   {
     title: "Full Stack Developer",
-    icon: "https://rajesh-mern-stack-portfolio-images.s3.ap-south-1.amazonaws.com/assets/fullStack.png",
+    icon: "http://localhost:3000/assets/fullStack.png",
   },
 ];
 
 const technologies = [
   {
     name: "HTML 5",
-    icon: "https://rajesh-mern-stack-portfolio-images.s3.ap-south-1.amazonaws.com/assets/tech/html.png",
+    icon: "http://localhost:3000/assets/tech/html.png",
   },
   {
     name: "CSS 3",
-    icon: "https://rajesh-mern-stack-portfolio-images.s3.ap-south-1.amazonaws.com/assets/tech/css.png",
+    icon: "http://localhost:3000/assets/tech/css.png",
   },
   {
     name: "JavaScript",
-    icon: "https://rajesh-mern-stack-portfolio-images.s3.ap-south-1.amazonaws.com/assets/tech/javascript.png",
+    icon: "http://localhost:3000/assets/tech/javascript.png",
   },
   {
     name: "Tailwind CSS",
-    icon: "https://rajesh-mern-stack-portfolio-images.s3.ap-south-1.amazonaws.com/assets/tech/tailwind.png",
+    icon: "http://localhost:3000/assets/tech/tailwind.png",
   },
   {
     name: "React JS",
-    icon: "https://rajesh-mern-stack-portfolio-images.s3.ap-south-1.amazonaws.com/assets/tech/reactjs.png",
+    icon: "http://localhost:3000/assets/tech/reactjs.png",
   },
   {
     name: "Redux",
-    icon: "https://rajesh-mern-stack-portfolio-images.s3.ap-south-1.amazonaws.com/assets/tech/redux.png",
+    icon: "http://localhost:3000/assets/tech/redux.png",
   },
   {
     name: "Formik",
-    icon: "https://rajesh-mern-stack-portfolio-images.s3.ap-south-1.amazonaws.com/assets/tech/formik-icon.png",
+    icon: "http://localhost:3000/assets/tech/formik-icon.png",
   },
   {
     name: "Matirial UI",
-    icon: "https://rajesh-mern-stack-portfolio-images.s3.ap-south-1.amazonaws.com/assets/tech/material-ui.png",
+    icon: "http://localhost:3000/assets/tech/material-ui.png",
   },
 
   {
     name: "Scss",
-    icon: "https://rajesh-mern-stack-portfolio-images.s3.ap-south-1.amazonaws.com/assets/tech/scss.png",
+    icon: "http://localhost:3000/assets/tech/scss.png",
   },
   {
     name: "Node JS",
-    icon: "https://rajesh-mern-stack-portfolio-images.s3.ap-south-1.amazonaws.com/assets/tech/nodejs.png",
+    icon: "http://localhost:3000/assets/tech/nodejs.png",
   },
   {
     name: "Express JS",
-    icon: "https://rajesh-mern-stack-portfolio-images.s3.ap-south-1.amazonaws.com/assets/tech/expressjs.png",
+    icon: "http://localhost:3000/assets/tech/expressjs.png",
   },
   {
     name: "MongoDB",
-    icon: "https://rajesh-mern-stack-portfolio-images.s3.ap-south-1.amazonaws.com/assets/tech/mongodb.png",
+    icon: "http://localhost:3000/assets/tech/mongodb.png",
   },
   {
     name: "Mongoose",
-    icon: "https://rajesh-mern-stack-portfolio-images.s3.ap-south-1.amazonaws.com/assets/tech/mongoose.png",
+    icon: "http://localhost:3000/assets/tech/mongoose.png",
   },
   {
     name: "Git",
-    icon: "https://rajesh-mern-stack-portfolio-images.s3.ap-south-1.amazonaws.com/assets/tech/git.png",
+    icon: "http://localhost:3000/assets/tech/git.png",
   },
   {
     name: "GitHup",
-    icon: "https://rajesh-mern-stack-portfolio-images.s3.ap-south-1.amazonaws.com/assets/github.png",
+    icon: "http://localhost:3000/assets/github.png",
   },
   {
     name: "EC2",
-    icon: "https://rajesh-mern-stack-portfolio-images.s3.ap-south-1.amazonaws.com/assets/tech/ec2.png",
+    icon: "http://localhost:3000/assets/tech/ec2.png",
   },
   {
     name: "S3",
-    icon: "https://rajesh-mern-stack-portfolio-images.s3.ap-south-1.amazonaws.com/assets/tech/Amazon-S3.png",
+    icon: "http://localhost:3000/assets/tech/Amazon-S3.png",
   },
 ];
 
 const tools = [
   {
     name: "VS Code",
-    icon: "https://rajesh-mern-stack-portfolio-images.s3.ap-south-1.amazonaws.com/assets/tools/vscode.png",
+    icon: "http://localhost:3000/assets/tools/vscode.png",
   },
   {
     name: "ChatGPT",
-    icon: "https://rajesh-mern-stack-portfolio-images.s3.ap-south-1.amazonaws.com/assets/tools/ChatGPT.png",
+    icon: "http://localhost:3000/assets/tools/ChatGPT.png",
   },
   {
     name: "Chrome",
-    icon: "https://rajesh-mern-stack-portfolio-images.s3.ap-south-1.amazonaws.com/assets/tools/chrome.png",
+    icon: "http://localhost:3000/assets/tools/chrome.png",
   },
   {
     name: "Impress",
-    icon: "https://rajesh-mern-stack-portfolio-images.s3.ap-south-1.amazonaws.com/assets/tools/Impress.png",
+    icon: "http://localhost:3000/assets/tools/Impress.png",
   },
   {
     name: "Mongodb Compass",
-    icon: "https://rajesh-mern-stack-portfolio-images.s3.ap-south-1.amazonaws.com/assets/tools/mongodbCompass.png",
+    icon: "http://localhost:3000/assets/tools/mongodbCompass.png",
   },
   {
     name: "Postman",
-    icon: "https://rajesh-mern-stack-portfolio-images.s3.ap-south-1.amazonaws.com/assets/tools/postman.png",
+    icon: "http://localhost:3000/assets/tools/postman.png",
   },
   {
     name: "Ubuntu",
-    icon: "https://rajesh-mern-stack-portfolio-images.s3.ap-south-1.amazonaws.com/assets/tools/ubuntu.png",
+    icon: "http://localhost:3000/assets/tools/ubuntu.png",
   },
 ];
 
@@ -175,7 +175,7 @@ const experiences = [
   {
     title: "Frontend Development",
     company_name: "React.js, Redux, Formik with Yup",
-    icon: "https://rajesh-mern-stack-portfolio-images.s3.ap-south-1.amazonaws.com/assets/frontend.png",
+    icon: "http://localhost:3000/assets/frontend.png",
     iconBg: "#383E56",
     date: "Jun 2022 - Present",
     points: [
@@ -190,7 +190,7 @@ const experiences = [
   {
     title: "UI Designing",
     company_name: "Material UI, Framer motion, Tailwind CSS, SCSS",
-    icon: "https://rajesh-mern-stack-portfolio-images.s3.ap-south-1.amazonaws.com/assets/design.png",
+    icon: "http://localhost:3000/assets/design.png",
     iconBg: "white",
     date: "Sep 2022 - Present",
     points: [
@@ -205,7 +205,7 @@ const experiences = [
   {
     title: "Backend Development",
     company_name: "Node js, Express js, Mongoose, S3",
-    icon: "https://rajesh-mern-stack-portfolio-images.s3.ap-south-1.amazonaws.com/assets/backend.png",
+    icon: "http://localhost:3000/assets/backend.png",
     iconBg: "#383E56",
     date: "Dec 2022 - Present",
     points: [
@@ -224,7 +224,7 @@ const experiences = [
   {
     title: "AWS and other ",
     company_name: "EC2, S3, IAM, DSA",
-    icon: "https://rajesh-mern-stack-portfolio-images.s3.ap-south-1.amazonaws.com/assets/cloud.png",
+    icon: "http://localhost:3000/assets/cloud.png",
     iconBg: "black",
     date: "Jun 2023 - Present",
     points: [
@@ -240,7 +240,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rajesh proved me wrong.",
+      "I thought it was impossible to make a website as beautiful as our product, but Usman proved me wrong.",
     name: "Sara Lee",
     designation: "CFO",
     company: "Acme Co",
@@ -248,7 +248,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients success like Rajesh does.",
+      "I've never met a web developer who truly cares about their clients success like Usman does.",
     name: "Chris Brown",
     designation: "COO",
     company: "DEF Corp",
@@ -256,7 +256,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "After Rajesh optimized our website, our traffic increased by 50%. We can't thank them enough!",
+      "After Usman optimized our website, our traffic increased by 50%. We can't thank them enough!",
     name: "Lisa Wang",
     designation: "CTO",
     company: "456 Enterprises",
@@ -284,9 +284,9 @@ const projects = [
       },
     ],
     image:
-      "https://rajesh-mern-stack-portfolio-images.s3.ap-south-1.amazonaws.com/assets/e-commerce.png",
+      "http://localhost:3000/assets/e-commerce.png",
     alt: "E-Commerce",
-    source_code_link: "https://github.com/Rajeshesh/newShop",
+    source_code_link: "https://github.com/esh/newShop",
     live_link: "http://3.82.129.40:8000/",
   },
   {
@@ -308,11 +308,11 @@ const projects = [
       },
     ],
     image:
-      "https://rajesh-mern-stack-portfolio-images.s3.ap-south-1.amazonaws.com/assets/proConnectup.jpg",
+      "http://localhost:3000/assets/proConnectup.jpg",
     alt: "Pro Connect Up",
 
-    source_code_link: "https://github.com/Rajeshesh/ProConnectUp",
-    live_link: "https://github.com/Rajeshesh/ProConnectUp",
+    source_code_link: "https://github.com/UsmanGhaniMoon/Portfolio",
+    live_link: "https://github.com/UsmanGhaniMoon/Portfolio",
   },
   {
     name: "My Portfolio",
@@ -333,33 +333,12 @@ const projects = [
       },
     ],
     image:
-      "https://rajesh-mern-stack-portfolio-images.s3.ap-south-1.amazonaws.com/assets/portfolio.png",
+      "http://localhost:3000/assets/portfolio.png",
     alt: "Portfolio",
-    source_code_link: "https://github.com/Rajeshesh/portfolio",
-    live_link: "https://mern-rajesh-portfolio.web.app/",
+    source_code_link: "https://github.com/UsmanGhaniMoon/portfolio",
+    live_link: "https://usman-ghani-portfolio.web.app/",
   },
-  // {
-  //   name: "PG Management",
-  //   description:
-  //     "A comprehensive PG Management platform that allows Admin to manage people who are staying in their PG and provide them with the best possible service.",
-  //   tags: [
-  //     {
-  //       name: "nextjs",
-  //       color: "blue-text-gradient",
-  //     },
-  //     {
-  //       name: "supabase",
-  //       color: "green-text-gradient",
-  //     },
-  //     {
-  //       name: "scss",
-  //       color: "pink-text-gradient",
-  //     },
-  //   ],
-  //   image: 'https://rajesh-mern-stack-portfolio-images.s3.ap-south-1.amazonaws.com/assets/portfolio.png',
-  //   source_code_link: "https://github.com/Rajeshesh",
-  //   live_link: "http://3.82.129.40:8000/",
-  // },
+  
 ];
 
 export {

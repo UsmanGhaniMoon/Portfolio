@@ -59,6 +59,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 
 ### Advanced Configuration
 
+
+
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 ### Deployment
@@ -68,3 +70,30 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+#######################
+######################
+# [Your Name] - [Your Title]
+## Portfolio Website
+
+### Featured Projects
+1. **iCompete Web App** (Laravel/Livewire)
+   - Description: Contest platform with user registration
+   - Key Features:
+     - JWT authentication
+     - Payment integration
+     - Admin dashboard
+   - Technologies: PHP 8.2, Laravel, MySQL, Livewire
+
+2. [Project 2 Name]
+...
+
+### Technical Skills
+- **Backend**: PHP, Laravel, SQL
+- **Frontend**: Livewire, TailwindCSS
+- **DevOps**: Render deployment, CI/CD
+
+### Contact
+- Email: usmanghanimaroot@gmail.com
+- GitHub: https://github.com/UsmanGhaniMoon
