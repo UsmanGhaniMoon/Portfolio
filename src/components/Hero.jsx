@@ -24,12 +24,12 @@ const Hero = () => {
           </div>
           <motion.div variants={textVariant()}>
             <h1 className={`${styles.heroHeadText} text-white`}>
-              Hi, I'm <span className="text-[#915EFF]">Rajesh</span>
+              Hi, I'm <span className="text-[#915EFF]">Usman</span>
             </h1>
             <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-              I develop Full Stack Wep Applications, using{" "}
+              I craft <span className="gradient-text">high-performance web apps</span> with
               <br className="hidden sm:block" />
-              <span className="gradient-text"> MERN Stack</span>
+              <span className="gradient-text">Laravel | Vue.js | CodeIgniter | WordPress | PHP | MERN Stack</span>
             </p>
           </motion.div>
         </div>

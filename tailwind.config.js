@@ -20,7 +20,7 @@ module.exports = {
       },
       backgroundImage: {
         "hero-pattern":
-          "url('https://rajesh-mern-stack-portfolio-images.s3.ap-south-1.amazonaws.com/assets/herobg.png')",
+          "url('http://localhost:3000/assets/herobg.png')",
       },
     },
   },
