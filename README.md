@@ -1,78 +1,85 @@
-Usman Ghani – Full Stack Web Developer
-Portfolio & Project Showcase
+# Usman Ghani – Full Stack Web Developer  
+**Portfolio & Project Showcase**
 
-👨‍💻 About Me
-I’m a full stack web developer with professional expertise in Laravel, Vue.js, React, Node.js, MySQL, CodeIgniter, WordPress, and the MERN stack. I specialize in crafting modern, scalable, and maintainable web applications.
+---
 
-🚀 Getting Started with This React App
-This project was bootstrapped with Create React App and is powered by Bun instead of npm.
+## 👨‍💻 About Me
 
-Available Scripts
-In the project directory, you can run:
+I’m a full stack web developer with strong expertise in **Laravel**, **Vue.js**, **React**, **Node.js**, **MySQL**, **CodeIgniter**, **WordPress**, and the **MERN stack**. I build scalable, secure, and performant web applications, with a strong focus on code quality and developer experience.
 
-bun dev
-Runs the app in development mode.
-Open http://localhost:3000 to view it in your browser.
+---
 
-bun test
-Launches the test runner in interactive watch mode.
+## 🚀 Getting Started with This React App
 
-bun build
-Builds the app for production.
+This project was bootstrapped using **Create React App** and is powered by **[Bun](https://bun.sh/)** — a modern JavaScript runtime offering blazing-fast performance.
 
-bun eject
-Copies configuration and dependencies, allowing for full customization (irreversible).
+### 📦 Available Scripts
 
-📌 Note: This app uses Bun instead of npm for performance and simplicity.
+Run the following commands in the project directory:
 
-💼 Featured Projects
-1. iCompete Web App (Laravel + Livewire)
-🔧 Note: This is a client project, not owned by me. My contributions were limited to:
+- `bun dev` — Starts the app in development mode at [http://localhost:3000](http://localhost:3000)  
+- `bun test` — Runs tests in watch mode  
+- `bun build` — Builds the app for production  
+- `bun eject` — Ejects the app for full customization (irreversible)
 
-Creating the user registration endpoint (API)
+> ⚡️ **Note:** This app uses **Bun** instead of `npm` for improved speed and simplicity.
 
-Deploying the API on Render
+---
 
-Tech Stack: Laravel 10, PHP 8.2, MySQL, Livewire
-Key Features:
+## 💼 Featured Projects
 
-JWT authentication
+### 1. **iCompete Web App** – Laravel + Livewire  
+🛠 *Client Project* — Limited-scope contribution
 
-Email verification
+**Contributions:**
+- Developed a secure user registration API endpoint
+- Deployed backend API to **Render**
 
-Admin panel and API-based user registration
+**Stack:** Laravel 10, PHP 8.2, Livewire, MySQL  
+**Key Features:**
+- JWT-based authentication  
+- Email verification  
+- Admin panel integration  
 
-2. MERN Projects Suite (Learning Projects)
-A collection of three small MERN stack apps for hands-on learning and practice.
+---
 
-▸ Blog App
-A personal blog system with full CRUD functionality.
+### 2. **MERN Projects Suite** – Learning Projects  
+A series of self-built, hands-on projects to demonstrate full stack MERN development.
 
-▸ E-Shop App
-An e-commerce prototype with cart, checkout, and admin features.
+#### ▸ **Blog App**  
+Full CRUD-based blog platform for creating and managing content.
 
-▸ QR Code Generator ✅ Live Preview
-Generates downloadable QR codes for custom URLs or text. Built with React.
+#### ▸ **E-Shop App**  
+Prototype e-commerce application with cart, checkout, and product admin panel.
 
-⚠️ These are learning-based projects, not commercial. Intended for skill demonstration and practice.
+#### ▸ **QR Code Generator** ✅ [Live Preview](https://qrcode-generator-silk.vercel.app/)  
+Create and download QR codes for URLs or text. Built with React + TailwindCSS.
 
-Tech Stack: MongoDB, Express.js, React.js, Node.js
+> ⚠️ These are **educational projects** built independently and not associated with any organization.
 
-🛠️ Technical Skills
-Backend: PHP, Laravel, CodeIgniter, Node.js, Express.js
+**Stack:** MongoDB, Express.js, React.js, Node.js
 
-Frontend: React, Vue.js, TailwindCSS, Bootstrap
+---
 
-Database: MySQL, MongoDB
+## 🎨 UI & Frontend Projects
 
-CMS: WordPress
+### ▸ **Artist Portfolio** – React  
+A stylish, responsive portfolio layout for creative professionals, showcasing project cards and contact integration.
 
-DevOps: Git, GitHub, GitLab, Vapor, Vercel, Render, CI/CD Pipelines
+---
 
-Other: RESTful APIs, JWT, MVC Architecture, Bun.js
+## 🛠️ Technical Skills
 
-📫 Contact
-Email: usmanghanimaroot@gmail.com
+- **Backend:** PHP, Laravel, CodeIgniter, Node.js, Express.js  
+- **Frontend:** React, Vue.js, TailwindCSS, Bootstrap  
+- **Databases:** MySQL, MongoDB  
+- **CMS:** WordPress  
+- **DevOps & Deployment:** Git, GitHub, GitLab, Render, Vercel, Laravel Vapor, CI/CD Pipelines  
+- **Tools & Concepts:** RESTful APIs, JWT Auth, MVC Architecture, Bun.js
 
-GitHub: github.com/UsmanGhaniMoon
+---
 
+## 📫 Contact Me
+
+- **📧 Email:** [usmanghanimaroot@gmail.com](mailto:usmanghanimaroot@gmail.com)  
+- **🔗 GitHub:** [github.com/UsmanGhaniMoon](https://github.com/UsmanGhaniMoon)
