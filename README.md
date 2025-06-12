@@ -52,7 +52,7 @@ Full CRUD-based blog platform for creating and managing content.
 #### ▸ **E-Shop App**  
 Prototype e-commerce application with cart, checkout, and product admin panel.
 
-#### ▸ **QR Code Generator** ✅ [Live Preview](https://qrcode-generator-silk.vercel.app/)  
+#### ▸ **QR Code Generator** ✅ [Live Preview](https://qrcode-client-puce.vercel.app/)  
 Create and download QR codes for URLs or text. Built with React + TailwindCSS.
 
 > ⚠️ These are **educational projects** built independently and not associated with any organization.
@@ -61,12 +61,6 @@ Create and download QR codes for URLs or text. Built with React + TailwindCSS.
 
 ---
 
-## 🎨 UI & Frontend Projects
-
-### ▸ **Artist Portfolio** – React  
-A stylish, responsive portfolio layout for creative professionals, showcasing project cards and contact integration.
-
----
 
 ## 🛠️ Technical Skills
 
