@@ -1,101 +1,78 @@
+Usman Ghani – Full Stack Web Developer
+Portfolio & Project Showcase
 
-# Getting Started with Create React App
+👨‍💻 About Me
+I’m a full stack web developer with professional expertise in Laravel, Vue.js, React, Node.js, MySQL, CodeIgniter, WordPress, and the MERN stack. I specialize in crafting modern, scalable, and maintainable web applications.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+🚀 Getting Started with This React App
+This project was bootstrapped with Create React App and is powered by Bun instead of npm.
 
-## Available Scripts
-
+Available Scripts
 In the project directory, you can run:
 
-### `npm start`
+bun dev
+Runs the app in development mode.
+Open http://localhost:3000 to view it in your browser.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+bun test
+Launches the test runner in interactive watch mode.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+bun build
+Builds the app for production.
 
-### `npm test`
+bun eject
+Copies configuration and dependencies, allowing for full customization (irreversible).
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+📌 Note: This app uses Bun instead of npm for performance and simplicity.
 
-### `npm run build`
+💼 Featured Projects
+1. iCompete Web App (Laravel + Livewire)
+🔧 Note: This is a client project, not owned by me. My contributions were limited to:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Creating the user registration endpoint (API)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Deploying the API on Render
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Tech Stack: Laravel 10, PHP 8.2, MySQL, Livewire
+Key Features:
 
-### `npm run eject`
+JWT authentication
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Email verification
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Admin panel and API-based user registration
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+2. MERN Projects Suite (Learning Projects)
+A collection of three small MERN stack apps for hands-on learning and practice.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+▸ Blog App
+A personal blog system with full CRUD functionality.
 
-## Learn More
+▸ E-Shop App
+An e-commerce prototype with cart, checkout, and admin features.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+▸ QR Code Generator ✅ Live Preview
+Generates downloadable QR codes for custom URLs or text. Built with React.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+⚠️ These are learning-based projects, not commercial. Intended for skill demonstration and practice.
 
-### Code Splitting
+Tech Stack: MongoDB, Express.js, React.js, Node.js
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+🛠️ Technical Skills
+Backend: PHP, Laravel, CodeIgniter, Node.js, Express.js
 
-### Analyzing the Bundle Size
+Frontend: React, Vue.js, TailwindCSS, Bootstrap
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Database: MySQL, MongoDB
 
-### Making a Progressive Web App
+CMS: WordPress
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+DevOps: Git, GitHub, GitLab, Vapor, Vercel, Render, CI/CD Pipelines
 
-### Advanced Configuration
+Other: RESTful APIs, JWT, MVC Architecture, Bun.js
 
+📫 Contact
+Email: usmanghanimaroot@gmail.com
 
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-
-#######################
-######################
-# [Your Name] - [Your Title]
-## Portfolio Website
-
-### Featured Projects
-1. **iCompete Web App** (Laravel/Livewire)
-   - Description: Contest platform with user registration
-   - Key Features:
-     - JWT authentication
-     - Payment integration
-     - Admin dashboard
-   - Technologies: PHP 8.2, Laravel, MySQL, Livewire
-
-2. [Project 2 Name]
-...
-
-### Technical Skills
-- **Backend**: PHP, Laravel, SQL
-- **Frontend**: Livewire, TailwindCSS
-- **DevOps**: Render deployment, CI/CD
-
-### Contact
-- Email: usmanghanimaroot@gmail.com
-- GitHub: https://github.com/UsmanGhaniMoon
+GitHub: github.com/UsmanGhaniMoon
 
