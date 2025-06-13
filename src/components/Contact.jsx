@@ -37,7 +37,7 @@ const Contact = () => {
             </div>
             <div>
               <a
-                href="https://github.com/UsmanGhaniMoon"
+                href="https://github.com/UsmanGhaniMoon/Portfolio"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -68,7 +68,7 @@ const Contact = () => {
           <a
             target="_blank"
             rel="noopener noreferrer"
-            href="https://drive.google.com/file/d/1L1mVzD8cU6lc1yZZkZJ96Ej3IWRaljuW/view?usp=drivesdk"
+            href="#"
           >
             <Button variant="outlined" endIcon={<ArrowOutward />}>
               Resume

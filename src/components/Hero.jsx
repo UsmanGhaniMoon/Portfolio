@@ -43,8 +43,8 @@ const Hero = () => {
             src="./myImage1.png"
             sx={
               !isSmallScreen
-                ? { width: 200, height: 400 }
-                : { width: 100, height: 200 }
+                ? { width: 250, height: 400 }
+                : { width: 150, height: 200 }
             }
           />
         </motion.div>

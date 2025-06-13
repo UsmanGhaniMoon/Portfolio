@@ -45,11 +45,11 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className=" mt-4 max-w-3xl text-[17px] leading-[30px] text-secondary"
       >
-        I'm a skilled software developer with experience in JavaScript, and
-        expertise in frameworks like React, Node.js, Express.js and MongoDB. I'm
-        a quick learner and collaborate closely with clients to create
-        efficient, scalable, and user-friendly solutions that solve real-world
-        problems. Let's work together to bring your ideas to life!
+        I'm a skilled full-stack developer with expertise in both <strong>JavaScript</strong> and <strong>PHP</strong> ecosystems. On the frontend, I specialize in <strong>React</strong>, <strong>Vue.js</strong>, and modern JavaScript frameworks. For backend development, I have extensive experience with <strong>Node.js (Express)</strong>, <strong>Laravel</strong>, <strong>CodeIgniter</strong>, and <strong>Yii</strong>.
+        <br /><br />
+        My database proficiency spans both SQL (<strong>MySQL</strong>) and NoSQL (<strong>MongoDB</strong>) solutions, and I'm experienced in <strong>WordPress</strong> theme customization, plugin development, and <strong>RESTful API</strong> design.
+        <br /><br />
+        A quick learner and collaborative problem-solver, I partner closely with clients to build efficient, scalable applications that address real-world challenges. Let's work together to bring your ideas to life!
       </motion.p>
       <div
         className={`flex-center-center ${

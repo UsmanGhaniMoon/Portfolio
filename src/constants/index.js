@@ -1,39 +1,3 @@
-// import {
-//   web,
-//   frontend,
-//   design,
-//   backend,
-//   fullStack,
-//   cloud,
-//   html,
-//   css,
-//   javascript,
-//   reactjs,
-//   formik,
-//   redux,
-//   mui,
-//   tailwind,
-//   scss,
-//   nodejs,
-//   expressjs,
-//   mongodb,
-//   mongoose,
-//   git,
-//   github,
-//   EC2,
-//   S3,
-//   vscode,
-//   ChatGPT,
-//   chrome,
-//   mongodbCompass,
-//   postman,
-//   ubuntu,
-//   Impress,
-//   e_commerce,
-//   proConnectup,
-//   portfolio,
-// } from "../assets";
-
 const navLinks = [
   {
     id: "about",
@@ -51,11 +15,11 @@ const navLinks = [
 
 const services = [
   {
-    title: "Web Developer",
+    title: "PHP Laravel Developer",
     icon: "http://localhost:3000/assets/web.png",
   },
   {
-    title: "React Developer",
+    title: "Vue.js Developer",
     icon: "http://localhost:3000/assets/frontend.png",
   },
   {
@@ -63,7 +27,8 @@ const services = [
     icon: "http://localhost:3000/assets/backend.png",
   },
   {
-    title: "Full Stack Developer",
+    title: "MERN Stack Developer",
+    icon: "http://localhost:3000/assets/mern.png",
     icon: "http://localhost:3000/assets/fullStack.png",
   },
 ];

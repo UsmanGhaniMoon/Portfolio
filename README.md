@@ -17,7 +17,7 @@ This project was bootstrapped using **Create React App** and is powered by **[Bu
 
 Run the following commands in the project directory:
 
-- `bun dev` — Starts the app in development mode at [http://localhost:3000](http://localhost:3000)  
+- `bun run start` — Starts the app in development mode at [http://localhost:3000](http://localhost:3000)  
 - `bun test` — Runs tests in watch mode  
 - `bun build` — Builds the app for production  
 - `bun eject` — Ejects the app for full customization (irreversible)
