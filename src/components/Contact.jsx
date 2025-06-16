@@ -15,7 +15,7 @@ const Contact = () => {
           className="flex-[0.75] rounded-2xl bg-black-100 p-8"
         >
           <p className={styles.sectionSubText}>Get in touch</p>
-          <h3 className={styles.sectionHeadText}>Contact.</h3>
+          <h3 className={styles.sectionHeadText}></h3>
           <div className="flex-center-center mt-8 flex-wrap gap-2">
             <div>
               <a href="mailto:moong3555@gmail.com">
@@ -54,7 +54,7 @@ const Contact = () => {
           className="md:h-auto md:flex-1"
         >
           <img
-            src="http://localhost:3000/assets/contact.jpeg"
+            src="/assets/contact.png"
             alt="contact-us"
             className="h-full w-full object-contain"
           />
@@ -68,7 +68,7 @@ const Contact = () => {
           <a
             target="_blank"
             rel="noopener noreferrer"
-            href="#"
+            href="https://drive.google.com/file/d/11hs9SiAyo9IQlx106tcmc_OVRAYHxMUZ/view?usp=sharing"
           >
             <Button variant="outlined" endIcon={<ArrowOutward />}>
               Resume
