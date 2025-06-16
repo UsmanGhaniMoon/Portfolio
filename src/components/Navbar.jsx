@@ -65,8 +65,8 @@ const Navbar = () => {
           <img
             src={
               toggle
-                ? "http://localhost:3000/assets/close.svg"
-                : "http://localhost:3000/assets/menu.svg"
+                ? "/assets/close.svg"
+                : "/assets/menu.svg"
             }
             alt="menu"
             className="h-[28px] w-[28px] object-contain"

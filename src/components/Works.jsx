@@ -31,7 +31,7 @@ const ProjectCard = ({
               className="black-gradient mr-1 flex h-10 w-10 cursor-pointer items-center justify-center rounded-full"
             >
               <img
-                src="http://localhost:3000/assets/webLink.png"
+                src="/assets/webLink.png"
                 alt="live link"
                 className="h-full w-full rounded-full  object-contain"
               />
@@ -41,7 +41,7 @@ const ProjectCard = ({
               className="black-gradient flex h-10 w-10 cursor-pointer items-center justify-center rounded-full"
             >
               <img
-                src="http://localhost:3000/assets/github.png"
+                src="/assets/github.png"
                 alt="source code"
                 className="h-3/4 w-3/4 object-contain"
               />

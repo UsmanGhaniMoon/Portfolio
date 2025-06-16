@@ -56,18 +56,30 @@ I'm a **Full Stack Developer** specializing in both PHP and JavaScript ecosystem
 ## 🛠 Development Setup
 
 # Using Bun for faster performance
-bun install
+bun install,
 bun run start
 
 # Alternative with npm
-npm install
+npm install,
 npm start
 
 
 Port: 3000
 Build Command: bun build
 
-## 📫 Contact Me
+## 📬 Contact Information
 
-- **📧 Email:** [usmanghanimaroot@gmail.com](mailto:usmanghanimaroot@gmail.com)  
-- **🔗 GitHub:** [github.com/UsmanGhaniMoon](https://github.com/UsmanGhaniMoon)
+### Let's Connect!
+I'm available for projects, opportunities, or technical discussions.
+
+📧 **Email:** [usmanghanimaroot@gmail.com](mailto:usmanghanimaroot@gmail.com)  
+💻 **GitHub:** [github.com/UsmanGhaniMoon/Portfolio](https://github.com/UsmanGhaniMoon/Portfolio)  
+💼 **LinkedIn:** [linkedin.com/in/usman-ghani-moon](https://www.linkedin.com/in/usman-ghani-moon/)  
+📱 **WhatsApp:** [+92 344 7431371](https://wa.me/923447431371) *(Professional inquiries only)*  
+
+### Quick Contact Options:
+1. **For urgent matters:** WhatsApp message
+2. **For project proposals:** Email preferred
+3. **For collaborations:** LinkedIn DM
+
+⏱ *Typical response time: <24 hours*

@@ -16,123 +16,123 @@ const navLinks = [
 const services = [
   {
     title: "PHP Laravel Developer",
-    icon: "http://localhost:3000/assets/web.png",
+    icon: "/assets/web.png",
   },
   {
     title: "Vue.js Developer",
-    icon: "http://localhost:3000/assets/frontend.png",
+    icon: "/assets/frontend.png",
   },
   {
     title: "Backend Developer",
-    icon: "http://localhost:3000/assets/backend.png",
+    icon: "/assets/backend.png",
   },
   {
     title: "MERN Stack Developer",
-    icon: "http://localhost:3000/assets/mern.png",
-    icon: "http://localhost:3000/assets/fullStack.png",
+    icon: "/assets/mern.png",
+    icon: "/assets/fullStack.png",
   },
 ];
 
 const technologies = [
   {
     name: "HTML 5",
-    icon: "http://localhost:3000/assets/tech/html.png",
+    icon: "/assets/tech/html.png",
   },
   {
     name: "CSS 3",
-    icon: "http://localhost:3000/assets/tech/css.png",
+    icon: "/assets/tech/css.png",
   },
   {
     name: "JavaScript",
-    icon: "http://localhost:3000/assets/tech/javascript.png",
+    icon: "/assets/tech/javascript.png",
   },
   {
     name: "Tailwind CSS",
-    icon: "http://localhost:3000/assets/tech/tailwind.png",
+    icon: "/assets/tech/tailwind.png",
   },
   {
     name: "React JS",
-    icon: "http://localhost:3000/assets/tech/reactjs.png",
+    icon: "/assets/tech/reactjs.png",
   },
   {
     name: "Redux",
-    icon: "http://localhost:3000/assets/tech/redux.png",
+    icon: "/assets/tech/redux.png",
   },
   {
     name: "Formik",
-    icon: "http://localhost:3000/assets/tech/formik-icon.png",
+    icon: "/assets/tech/formik-icon.png",
   },
   {
     name: "Matirial UI",
-    icon: "http://localhost:3000/assets/tech/material-ui.png",
+    icon: "/assets/tech/material-ui.png",
   },
 
   {
     name: "Scss",
-    icon: "http://localhost:3000/assets/tech/scss.png",
+    icon: "/assets/tech/scss.png",
   },
   {
     name: "Node JS",
-    icon: "http://localhost:3000/assets/tech/nodejs.png",
+    icon: "/assets/tech/nodejs.png",
   },
   {
     name: "Express JS",
-    icon: "http://localhost:3000/assets/tech/expressjs.png",
+    icon: "/assets/tech/expressjs.png",
   },
   {
     name: "MongoDB",
-    icon: "http://localhost:3000/assets/tech/mongodb.png",
+    icon: "/assets/tech/mongodb.png",
   },
   {
     name: "Mongoose",
-    icon: "http://localhost:3000/assets/tech/mongoose.png",
+    icon: "/assets/tech/mongoose.png",
   },
   {
     name: "Git",
-    icon: "http://localhost:3000/assets/tech/git.png",
+    icon: "/assets/tech/git.png",
   },
   {
     name: "GitHup",
-    icon: "http://localhost:3000/assets/github.png",
+    icon: "/assets/github.png",
   },
   {
     name: "EC2",
-    icon: "http://localhost:3000/assets/tech/ec2.png",
+    icon: "/assets/tech/ec2.png",
   },
   {
     name: "S3",
-    icon: "http://localhost:3000/assets/tech/Amazon-S3.png",
+    icon: "/assets/tech/Amazon-S3.png",
   },
 ];
 
 const tools = [
   {
     name: "VS Code",
-    icon: "http://localhost:3000/assets/tools/vscode.png",
+    icon: "/assets/tools/vscode.png",
   },
   {
     name: "ChatGPT",
-    icon: "http://localhost:3000/assets/tools/ChatGPT.png",
+    icon: "/assets/tools/ChatGPT.png",
   },
   {
     name: "Chrome",
-    icon: "http://localhost:3000/assets/tools/chrome.png",
+    icon: "/assets/tools/chrome.png",
   },
   {
     name: "Impress",
-    icon: "http://localhost:3000/assets/tools/Impress.png",
+    icon: "/assets/tools/Impress.png",
   },
   {
     name: "Mongodb Compass",
-    icon: "http://localhost:3000/assets/tools/mongodbCompass.png",
+    icon: "/assets/tools/mongodbCompass.png",
   },
   {
     name: "Postman",
-    icon: "http://localhost:3000/assets/tools/postman.png",
+    icon: "/assets/tools/postman.png",
   },
   {
     name: "Ubuntu",
-    icon: "http://localhost:3000/assets/tools/ubuntu.png",
+    icon: "/assets/tools/ubuntu.png",
   },
 ];
 
@@ -140,7 +140,7 @@ const experiences = [
   {
     title: "Frontend Development",
     company_name: "React.js, Redux, Formik with Yup",
-    icon: "http://localhost:3000/assets/frontend.png",
+    icon: "/assets/frontend.png",
     iconBg: "#383E56",
     date: "Jun 2022 - Present",
     points: [
@@ -155,7 +155,7 @@ const experiences = [
   {
     title: "UI Designing",
     company_name: "Material UI, Framer motion, Tailwind CSS, SCSS",
-    icon: "http://localhost:3000/assets/design.png",
+    icon: "/assets/design.png",
     iconBg: "white",
     date: "Sep 2022 - Present",
     points: [
@@ -170,7 +170,7 @@ const experiences = [
   {
     title: "Backend Development",
     company_name: "Node js, Express js, Mongoose, S3",
-    icon: "http://localhost:3000/assets/backend.png",
+    icon: "/assets/backend.png",
     iconBg: "#383E56",
     date: "Dec 2022 - Present",
     points: [
@@ -189,7 +189,7 @@ const experiences = [
   {
     title: "AWS and other ",
     company_name: "EC2, S3, IAM, DSA",
-    icon: "http://localhost:3000/assets/cloud.png",
+    icon: "/assets/cloud.png",
     iconBg: "black",
     date: "Jun 2023 - Present",
     points: [
@@ -249,7 +249,7 @@ const projects = [
       },
     ],
     image:
-      "http://localhost:3000/assets/e-commerce.png",
+      "/assets/e-commerce.png",
     alt: "E-Commerce",
     source_code_link: "https://github.com/esh/newShop",
     live_link: "http://3.82.129.40:8000/",
@@ -273,7 +273,7 @@ const projects = [
       },
     ],
     image:
-      "http://localhost:3000/assets/proConnectup.jpg",
+      "/assets/proConnectup.jpg",
     alt: "Pro Connect Up",
 
     source_code_link: "https://github.com/UsmanGhaniMoon/Portfolio",
@@ -298,7 +298,7 @@ const projects = [
       },
     ],
     image:
-      "http://localhost:3000/assets/portfolio.png",
+      "/assets/portfolio.png",
     alt: "Portfolio",
     source_code_link: "https://github.com/UsmanGhaniMoon/portfolio",
     live_link: "https://usman-ghani-portfolio.web.app/",
