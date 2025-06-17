@@ -35,43 +35,6 @@ const services = [
 
 const technologies = [
   {
-    name: "HTML 5",
-    icon: "/assets/tech/html.png",
-  },
-  {
-    name: "CSS 3",
-    icon: "/assets/tech/css.png",
-  },
-  {
-    name: "JavaScript",
-    icon: "/assets/tech/javascript.png",
-  },
-  {
-    name: "Tailwind CSS",
-    icon: "/assets/tech/tailwind.png",
-  },
-  {
-    name: "React JS",
-    icon: "/assets/tech/reactjs.png",
-  },
-  {
-    name: "Redux",
-    icon: "/assets/tech/redux.png",
-  },
-  {
-    name: "Formik",
-    icon: "/assets/tech/formik-icon.png",
-  },
-  {
-    name: "Matirial UI",
-    icon: "/assets/tech/material-ui.png",
-  },
-
-  {
-    name: "Scss",
-    icon: "/assets/tech/scss.png",
-  },
-  {
     name: "Node JS",
     icon: "/assets/tech/nodejs.png",
   },
@@ -88,20 +51,57 @@ const technologies = [
     icon: "/assets/tech/mongoose.png",
   },
   {
+    name: "React JS",
+    icon: "/assets/tech/reactjs.png",
+  },
+  {
+    name: "Vue.js",
+    icon: "/assets/tech/vuejs.png",
+  },
+  {
+    name: "Laravel",
+    icon: "/assets/tech/laravel.png",
+  },
+  {
+    name: "CodeIgniter",
+    icon: "/assets/tech/codeIgniter.png",
+  },
+
+  {
+    name: "WordPress",
+    icon: "/assets/tech/wordPress.png",
+  },
+  {
+    name: "MySQL",
+    icon: "/assets/tech/mysql.png",
+  },
+  {
+    name: "HTML 5",
+    icon: "/assets/tech/html.png",
+  },
+  {
+    name: "CSS 3",
+    icon: "/assets/tech/css.png",
+  },
+  {
+    name: "Tailwind CSS",
+    icon: "/assets/tech/tailwind.png",
+  },
+  {
+    name: "JavaScript",
+    icon: "/assets/tech/javascript.png",
+  },
+  {
+    name: "jQuery",
+    icon: "/assets/tech/jQuery.png",
+  },
+  {
     name: "Git",
     icon: "/assets/tech/git.png",
   },
   {
-    name: "GitHup",
+    name: "GitHub",
     icon: "/assets/github.png",
-  },
-  {
-    name: "EC2",
-    icon: "/assets/tech/ec2.png",
-  },
-  {
-    name: "S3",
-    icon: "/assets/tech/Amazon-S3.png",
   },
 ];
 
@@ -119,8 +119,8 @@ const tools = [
     icon: "/assets/tools/chrome.png",
   },
   {
-    name: "Impress",
-    icon: "/assets/tools/Impress.png",
+    name: "DBeaver",
+    icon: "/assets/tools/DBeaver.png",
   },
   {
     name: "Mongodb Compass",
@@ -138,96 +138,97 @@ const tools = [
 
 const experiences = [
   {
-    title: "Frontend Development",
-    company_name: "React.js, Redux, Formik with Yup",
-    icon: "/assets/frontend.png",
+    title: "Full Stack Web Developer",
+    company_name: "TeamsWork - Remote",
+    icon: "/assets/fullStack.png",
+    iconBg: "#FF2D20",
+    date: "Jun 2022 - Apr 2025",
+    points: [
+      "Developed 100+ REST APIs using Laravel and integrated them into Vue.js SPA, improving performance by 30%.",
+      "Led frontend team to implement JWT authentication, reducing security incidents by 40%.",
+      "Integrated Twilio for voice calling and Stripe for payment processing.",
+      "Worked on GitHub private repository for web application development.",
+    ],
+  },
+  {
+    title: "Laravel Developer",
+    company_name: "Traxim Technologies, Lahore",
+    icon: "/assets/laravel.png",
+    iconBg: "#FF2D20",
+    date: "Feb 2019 - Jun 2022",
+    points: [
+      "Built and maintained hospital management systems in Laravel, increasing patient booking efficiency by 40%.",
+      "Implemented admin dashboards with real-time reporting and scheduling features.",
+      "Collaborated with frontend team on Vue.js integrations for seamless user experiences.",
+    ],
+  },
+  {
+    title: "Software Engineer",
+    company_name: "Creative Rays, Lahore",
+    icon: "/assets/codeIgniter.png",
+    iconBg: "#EE4323",
+    date: "Jul 2017 - Jan 2019",
+    points: [
+      "Designed and deployed CRM systems in CodeIgniter, improving client communication workflows.",
+      "Worked with technologies including PHP, WordPress, jQuery, AJAX, HTML5, and MySQL.",
+      "Developed custom solutions to enhance business processes and user interactions.",
+    ],
+  },
+  {
+    title: "Web Developer",
+    company_name: "LEADCONCEPT LTD, Lahore",
+    icon: "/assets/wordPress.png",
+    iconBg: "#21759B",
+    date: "Jan 2016 - Jul 2017",
+    points: [
+      "Developed dynamic CMS and client portals using CodeIgniter and WordPress.",
+      "Implemented user dashboards and third-party login modules for enhanced functionality.",
+      "Created custom solutions to meet client requirements and improve user engagement.",
+    ],
+  },
+  {
+    title: "Technical Skills",
+    company_name: "Full Stack Expertise",
+    icon: "/assets/cloud.png", 
     iconBg: "#383E56",
-    date: "Jun 2022 - Present",
+    date: "2016 - Present",
     points: [
-      "Advanced skills in React.js for building dynamic web applications.",
-      "Expertise in Redux for efficient state management.",
-      "Experience with Formik and Yup for seamless form handling and validation.",
-      "Applied Flux architecture to enhance data flow and maintainability.",
-      "Implemented advanced architectural patterns for scalable applications.",
-      "These are just a few of the many libraries",
+      "Backend: Laravel, Node.js, Express, CodeIgniter, PHP, REST APIs",
+      "Frontend: Vue.js, React, JavaScript, jQuery, HTML5, CSS3",
+      "Databases: MySQL, MongoDB",
+      "Tools: Git, Docker, WordPress, Bitrix24",
+      "Third-Party: Twilio, Stripe, Easyship",
     ],
-  },
-  {
-    title: "UI Designing",
-    company_name: "Material UI, Framer motion, Tailwind CSS, SCSS",
-    icon: "/assets/design.png",
-    iconBg: "white",
-    date: "Sep 2022 - Present",
-    points: [
-      "Proficient in Material UI for creating modern and responsive user interfaces.",
-      "Expertise in Framer Motion for crafting smooth and interactive animations.",
-      "Skillful use of Tailwind CSS to streamline and enhance UI styling.",
-      "Leveraged SCSS to seamlessly integrate Tailwind CSS utility classes, optimizing code and enabling custom class creation when required.",
-      "Ability to create responsive layouts for diverse screen sizes and devices.",
-      "Prioritizing user experience and usability in UI design projects.",
-    ],
-  },
-  {
-    title: "Backend Development",
-    company_name: "Node js, Express js, Mongoose, S3",
-    icon: "/assets/backend.png",
-    iconBg: "#383E56",
-    date: "Dec 2022 - Present",
-    points: [
-      "Proficient in Node.js for building robust and scalable server-side applications.",
-      "Strong command of Express.js for creating RESTful APIs and routing.",
-      "Experience in using MongoDB and Mongoose, including the strategic use of indexing, for efficient data modeling, storage, and retrieval.",
-      "Strategies for optimizing application performance and scalability.",
-      "Integration of AWS S3 for secure and scalable file storage and retrieval",
-      "Skillful use of Postman for API testing, validation, and documentation",
-      "Familiarity with the Model-View-Controller (MVC) pattern for structured and maintainable code",
-      "Application of Clean Architecture principles for modular and testable codebases",
-      "Implementation of security measures, including authorization, and authentication mechanisms to protect data.",
-      "Expertise in error handling, debugging, and performance optimization.",
-    ],
-  },
-  {
-    title: "AWS and other ",
-    company_name: "EC2, S3, IAM, DSA",
-    icon: "/assets/cloud.png",
-    iconBg: "black",
-    date: "Jun 2023 - Present",
-    points: [
-      "Proficiency in managing AWS Elastic Compute Cloud (EC2) instances for scalable computing.",
-      "Skillful use of AWS S3 for secure and scalable object storage.",
-      "Experience in configuring AWS Identity and Access Management (IAM) for user and resource access control.",
-      "Strong understanding of fundamental data structures and algorithms for efficient problem-solving. Knowledge of Big O notation for analyzing algorithmic complexity and performance.",
-      "Eager to expand cloud service expertise and contribute to cloud-based solutions.",
-    ],
-  },
+  }
 ];
 
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Usman proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+      "The web application delivered exceeded our expectations in both design and functionality. Truly impressive work!",
+    name: "Alex Johnson",
+    designation: "Product Manager",
+    company: "TechNova Solutions",
+    image: "/assets/testimonials/5.jpg",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients success like Usman does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
+      "Working with this developer was a game-changer for our business. Their attention to detail is remarkable.",
+    name: "Samira Khan",
+    designation: "Operations Director",
+    company: "Global Ventures Inc.",
+    image: "/assets/testimonials/4.jpg",
   },
   {
-    testimonial:
-      "After Usman optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
-  },
+  testimonial:
+    "Our platform's performance improved dramatically after the optimization work. Highly recommended!",
+   name: "Priya Sharma",
+   designation: "Technical Lead",
+   company: "Digital Horizon LLC",
+   image: "/assets/testimonials/6.jpg",
+  }
 ];
+
 
 const projects = [
   {
