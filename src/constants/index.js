@@ -375,7 +375,7 @@ const projects = [
     image: "/assets/portfolio.png",
     alt: "Portfolio",
     source_code_link: "https://github.com/UsmanGhaniMoon/portfolio",
-    live_link: "https://usman-portfolio-sandy.vercel.app/",
+    live_link: "https://usman-portfolio-web.vercel.app/",
   },
 
 ];
