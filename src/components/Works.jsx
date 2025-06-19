@@ -79,11 +79,7 @@ const Works = () => {
           variants={fadeIn("", "", 0.1, 1)}
           className="mt-3  text-[17px] leading-[30px] text-secondary"
         >
-          Following projects showcases my skills and experience through
-          real-world examples of my work. Each project is briefly described with
-          links to code repositories and live demos in it. It reflects my
-          ability to solve complex problems, work with different technologies,
-          and manage projects effectively.
+          The following projects showcase my expertise and hands-on experience through real-world applications. Each project demonstrates my ability to solve complex problems, leverage diverse technologies, and deliver effective solutions. Below, you’ll find descriptions along with links to live demos or repositories, reflecting my commitment to quality, innovation, and project management.
         </motion.p>
       </div>
 
