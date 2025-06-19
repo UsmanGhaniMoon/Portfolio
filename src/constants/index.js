@@ -232,79 +232,152 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Shop",
+    name: "JotPhone (VoIP System)",
     description:
-      "A web-based platform that allows users to search, and order products. admin can manage products, orders, reviews, and users. Providing a convenient and efficient solution for people who need the best online shopping experience.",
+      "A web-based VoIP system enabling users to purchase and use US phone numbers internationally. Integrated Twilio for voice calling and Stripe for payment processing.",
     tags: [
       {
-        name: "MERN",
+        name: "Laravel",
         color: "blue-text-gradient",
       },
       {
-        name: "Retux",
+        name: "Vue.js3",
         color: "green-text-gradient",
       },
       {
-        name: "Material UI",
+        name: "Twilio/Stripe",
         color: "pink-text-gradient",
       },
     ],
-    image:
-      "/assets/e-commerce.png",
-    alt: "E-Commerce",
-    source_code_link: "https://github.com/esh/newShop",
-    live_link: "http://3.82.129.40:8000/",
+    image: "/assets/jetphone.png",
+    alt: "JetPhone VoIP System",
+    source_code_link: "https://github.com/UsmanGhaniMoon",
+    live_link: "https://beta.jotphone.com",
   },
   {
-    name: "Pro Connect Up",
+    name: "West Capital Lending",
     description:
-      "A web application that enables users to find people with the same interest in their career, find a person for freelance work, search for job openings, and locate available jobs based on their current location.",
+      "A loan management system featuring secure login, 2FA, and user dashboards. Built with Laravel 8 for streamlined financial operations.",
     tags: [
       {
-        name: "MERN",
+        name: "Laravel 8",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "2FA",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "Admin Dashboards",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "MySQL",
+        color: "orange-text-gradient",
+      },
+    ],
+    image: "/assets/west-capital.png",
+    alt: "West Capital Lending",
+    source_code_link: "https://github.com/UsmanGhaniMoon",
+    live_link: "https://portal.westcaplending.com",
+  },
+  {
+    name: "Global Lien Doctors",
+    description:
+      "A private hospital website where patients can book appointments with doctors. Developed using Laravel 6 with a focus on usability and efficiency.",
+    tags: [
+      {
+        name: "Laravel 6",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Healthcare",
+        color: "green-text-gradient",
+      },
+      {
+        name: "MySQL",
+        color: "orange-text-gradient",
+      },
+    ],
+    image: "/assets/global-lien.png", 
+    alt: "Global Lien Doctors",
+    source_code_link: "https://github.com/UsmanGhaniMoon",
+    live_link: "https://globalcloudportal.com",
+  },
+  {
+    name: "Artist Auditions",
+    description:
+      "A talent audition platform for artists to register and apply for events. Built with Laravel to showcase and manage artist profiles.",
+    tags: [
+      {
+        name: "Laravel",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Talent Platform",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Event Manag",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "MySQL",
+        color: "orange-text-gradient",
+      },
+    ],
+    image: "/assets/artist-auditions.png", 
+    alt: "Artist Auditions",
+    source_code_link: "https://github.com/UsmanGhaniMoon",
+    live_link: "https://artistauditions.com",
+  },
+  {
+    name: "SafeWatch (UK)",
+    description:
+      "UK's premier service marketplace connecting clients with verified professionals (carpenters, electricians, IT experts). Built with Laravel 6, featuring service listings, booking system.",
+    tags: [
+      {
+        name: "Laravel 6",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Service Marketplace",
+        color: "green-text-gradient",
+      },
+      {
+        name: "User Ratings",
         color: "pink-text-gradient",
       },
     ],
-    image:
-      "/assets/proConnectup.jpg",
-    alt: "Pro Connect Up",
-
-    source_code_link: "https://github.com/UsmanGhaniMoon/Portfolio",
-    live_link: "https://github.com/UsmanGhaniMoon/Portfolio",
+    image: "/assets/safewatch.png", 
+    alt: "UK Service Marketplace Platform",
+    source_code_link: "https://github.com/UsmanGhaniMoon",
+    live_link: "https://safewatch.co.uk",
   },
   {
     name: "My Portfolio",
     description:
-      "My portfolio features a collection of projects that reflect my commitment to delivering top-tier web solutions. I take pride in developing user-friendly and efficient applications.",
+      "A modern, interactive portfolio showcasing my full-stack projects. Built with React.js, Tailwind CSS expertise. Features responsive design and project filtering for seamless navigation.",
     tags: [
       {
-        name: "react.js",
+        name: "React.js",
         color: "blue-text-gradient",
       },
       {
-        name: "tailwind CSS",
+        name: "Tailwind CSS",
         color: "green-text-gradient",
       },
       {
-        name: "framer-motion",
+        name: "Framer Motion",
         color: "pink-text-gradient",
       },
     ],
-    image:
-      "/assets/portfolio.png",
+    image: "/assets/portfolio.png",
     alt: "Portfolio",
     source_code_link: "https://github.com/UsmanGhaniMoon/portfolio",
-    live_link: "https://usman-ghani-portfolio.web.app/",
+    live_link: "https://usman-portfolio-sandy.vercel.app/",
   },
-  
+
 ];
 
 export {
