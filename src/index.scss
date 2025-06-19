@@ -187,3 +187,16 @@
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
+
+
+html, body {
+  overflow-x: hidden;
+  overflow-y: scroll; /* enables scroll but hides jumpy scrollbar shifting */
+  -ms-overflow-style: none;  /* for IE and Edge */
+  scrollbar-width: none;     /* for Firefox */
+}
+
+body::-webkit-scrollbar {
+  display: none; /* for Chrome, Safari, Opera */
+}
+
