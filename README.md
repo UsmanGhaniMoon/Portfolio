@@ -1,5 +1,5 @@
 # Usman Ghani – Full Stack Developer Portfolio
-**Live Demo:** [https://usman-portfolio-sandy.vercel.app/](https://usman-portfolio-sandy.vercel.app/)
+**Live Demo:** [https://usman-portfolio-web.vercel.app/](https://usman-portfolio-web.vercel.app/)
 
 ![Portfolio Screenshot](./public/screenshots/Usman-Portfolio-Home.png)
 
