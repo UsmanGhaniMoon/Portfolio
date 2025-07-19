@@ -43,7 +43,7 @@ const Hero = () => {
             src="./myImage1.png"
             sx={
               !isSmallScreen
-                ? { width: 250, height: 400 }
+                ? { width: 300, height: 400 }
                 : { width: 150, height: 200 }
             }
           />
