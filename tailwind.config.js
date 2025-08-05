@@ -20,7 +20,7 @@ module.exports = {
       },
       backgroundImage: {
         "hero-pattern":
-          "url('http://localhost:3000/assets/herobg.png')",
+          "url('https://usman-portfolio-web.vercel.app/assets/herobg.png')",
       },
     },
   },
